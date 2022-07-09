@@ -1,0 +1,304 @@
+body{
+    margin: 0px;
+}
+.nav{
+    background-color: #2c6431;
+    height: 70px;
+}
+.innernav{
+    
+    display: flex;
+    width: 600px;
+    height: 70px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.naveicon0{
+    background-color:#2c6431;
+    border: 1px solid white;
+    border-radius: 39px;
+    padding: -15px;
+    padding-right: 4px;
+    padding-left: 4px;
+    position: relative;
+    top: -41px;
+    left: 425px;
+}
+.navimg{
+    position: relative;
+    left: 146px;
+    top: -3px;
+}
+.navbutton{
+    color: red;
+}
+.fa-magnifying-glass{
+    color: black;
+    position: relative;
+    top: -20px;
+    left: 433px;
+}
+.fa-cart-shopping{
+    position: relative;
+    top: -21px;
+    left: 458px;
+    font-size: 20px;
+    color: white;
+}
+.navicon0{
+    
+}
+.fa-user{
+    position: relative;
+    top: -21px;
+    left: 483px;
+    font-size: 20px;
+    color: white;
+}
+.naveicon{
+    position: relative;
+    left: 430px;
+    top: -26px;
+    padding: 6px;
+    background-color: white;
+    border-color: white;
+}
+.inputnav{
+    position: relative;
+    top: 7px;
+    left: 279px;
+    padding: 7px;
+}
+.nav-ul{
+    text-align: center;
+    display: flex;
+    position: relative;
+    left: 200px;
+    top: -24px;
+}
+.nav-list{
+    display: flex;
+    list-style: none;
+    padding: 23px;
+    font-size: 20px;
+    color: white;
+}
+.section1{
+    height: 649px;
+    padding-top: 1px;
+}
+.section2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -2px;
+    margin-bottom: -30px;
+}
+.imagediv{
+    padding-right: 229px;
+    padding-top: 91px;
+    width: 150px;
+    background-color: black;
+}
+.image{
+    position: relative;
+    top: -55px;
+    left: 110px;
+    
+}
+.text{
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 103px;
+    top: -69px;
+    font-size: 25px;
+}
+.image1{
+    height: 463px;
+    margin-top: 1px;
+}
+.section3{
+    background-color: black;
+    height: 463px;
+    
+}
+.subsection{
+    text-align: start;
+    position: relative;
+    top: -505px;
+    left: 706px;
+}
+.strong{
+    color: white;
+    position: relative;
+    top: 20px;
+}
+.p{
+    color: white;
+    position: relative;
+    top: 38px;
+    font-size: 48px;
+}
+.p2{
+    color: white;
+    font-size: 18px;
+    font-family: 'century-gothic';
+}
+.heading{
+    color: white;
+    font-size: 60px;
+    font-family: 'century-gothic';
+}
+.button{
+    background-color: #2c6431;
+    font-size: 25px;
+    color: white;
+    padding: 14px;
+    padding-left: 19px;
+    padding-right: 19px;
+}
+.section4main{
+    display: flex;
+    margin-top: 2px;
+    margin-bottom: -391px;
+
+}
+.section4{
+    height: 465px;
+
+}
+.subsection4{
+    text-align: start;
+    position: relative;
+    top: -498px;
+    left: 458px;
+}
+.section5main{
+    margin-bottom: -412px
+}
+.section5{
+    height: 464px;
+    margin-top: -2px;
+}
+.section6{
+    height: 457px;
+}
+.section6main{
+    margin-bottom: -412px
+}
+.subsection6{
+    text-align: start;
+    position: relative;
+    top: -507px;
+    left: 165px;
+}
+.section7{
+    height: 463px;
+}
+.section7main{
+    margin-bottom: -331px;
+    height: 464px;
+}
+.section8{
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+    position: relative;
+    top: 309px;
+}
+.section8sub{
+    position: relative;
+    top: 7px;
+    left: 159px;
+}
+.section8h1{
+    position: relative;
+    top: 27px;
+    font-family: 'century-gothic';
+}
+.section8p{
+    position: relative;
+    top: 14px;
+    
+}
+.section9{
+    background-color: black;
+    margin-top: -28px;
+    padding-bottom: 65px;
+    position: relative;
+    top: 310px;
+}
+.section9sub{
+    background-color:black;
+    color: white;
+    width: 1199px;
+    position: relative;
+    left: 157px;
+    top: 68px;
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+    
+}
+.outdoor{
+    position: relative;
+    left: 135px;
+}
+.men{
+position: relative;
+    left: 279px;
+}
+.women{
+    position: relative;
+    left: 503px;
+}
+.section9last{
+    position: inherit;
+    top: 86px;
+}
+.section9h1{
+    left: 95px;
+    position: relative;
+    top: 184px;
+    margin-bottom: 80px;
+}
+.icons{
+    display: flex;
+    
+    width: 314px;
+    position: relative;
+    left: 160px;
+
+}
+.iconssize{
+padding: 11px;
+background-color: black;
+
+}
+.fa-brands{
+color:white;
+}
+.copy{
+    color: white;
+    position: relative;
+    top: -50px;
+    left: 1111px;
+}
+.inputsection9{
+    padding: 10px;
+    position: relative;
+    top: 317px;
+    left: -322px;
+    padding-right: 6px;
+    background-color: black;
+
+}
+
+.go{
+    padding: 12px;
+    background-color:#28a745;
+    position: relative;
+    top: 318px;
+    left: -320px;
+}
